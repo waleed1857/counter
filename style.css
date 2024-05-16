@@ -56,6 +56,10 @@ body {
     background-color: rgb(56, 201, 193);
     color: white;
 }
+.row1 button:hover {
+    border: 4px solid rgb(7, 173, 168);
+    background-color: rgb(7, 67, 146);
+}
 
 .row2 {
     display: flex;
@@ -71,6 +75,10 @@ body {
     border-radius: 8px;
     background-color: rgb(56, 201, 193);
     color: white;
+}
+.row2 button:hover {
+    border: 4px solid rgb(7, 173, 168);
+    background-color: rgb(7, 67, 146);
 }
 
 @media screen and (max-width:768px) {
